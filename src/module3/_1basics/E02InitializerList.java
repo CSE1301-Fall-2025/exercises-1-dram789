@@ -6,6 +6,6 @@ public class E02InitializerList {
 	//to see the updated length.
 	public static void main(String[] args) {
 		int[ ] highScores = {99,98,98,88,68};
-		System.out.println(highScores.length);
+		System.out.println("This array has " + highScores.length + " items.");
 	}
 }

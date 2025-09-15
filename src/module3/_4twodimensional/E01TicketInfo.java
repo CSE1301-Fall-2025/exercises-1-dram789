@@ -6,6 +6,6 @@ public class E01TicketInfo {
 		// declare arrays
 		int[][] ticketInfo = new int[2][3];
 		System.out.println(ticketInfo.length + " rows");
-		System.out.println(ticketInfo[0].length + " columns");
+		System.out.println(ticketInfo[0].length + " columns"); //THIS WILL BE ON THE EXAM NEXT WEEK
 	}
 }
